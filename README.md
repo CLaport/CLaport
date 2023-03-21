@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Cam, A passionate full-stack developer from the UK.
 
-<!--
-**CLaport/CLaport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just graduated from Le Wagon London.
+I've just finished working on a group project called www.footsteps.world, and I'm now thinking about what to work on next. I have loads of ideas!
+I'm still learning pretty much everything! JavaScrip, SASS, HTML... And focusing on honing my skills while doing little projects here and there.
+I'm happy to collaborate on anything front-end for now.
+My pronouns are he/him.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: camillelaporte@me.com
+- LinkedIn: CLaport
+
+
+That's all for now!
+
